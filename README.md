@@ -1,5 +1,4 @@
-Реализована логика для получения данных и отображения списка
-Данные расположены в сети интернет и доступны тут: https://jsonplaceholder.typicode.com/todos
+логика получения и отображения данных при помощи fetch
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
